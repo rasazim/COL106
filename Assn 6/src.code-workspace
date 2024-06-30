@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		},
+		{
+			"name": "COL106-Assn6",
+			"path": "src/COL106-Assn6"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}

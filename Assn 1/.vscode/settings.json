@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "string": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}

@@ -1,0 +1,8 @@
+PUSH 5
+PUSH 6
+ADD
+mem[0] = POP
+PUSH 5
+PUSH 6
+ADD
+mem[0] = POP
